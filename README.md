@@ -31,7 +31,7 @@ The OptiBF dashboard provides an interactive environment for:
 - Comparison between current and optimized configurations
 - Engineering visualization
 
-![OptiBF Brake Geometry](brake_geometry.png)
+<img src="brake_geometry.png" width="700">
 
 ---
 
@@ -77,9 +77,9 @@ engineering constraints.
 The project includes engineering visualizations of the brake equations,
 brake geometry and self-energizing behavior.
 
-![Brake Equations](brake_equations.png)
+<img src="brake_equations.png" width="600">
 
-![Brake Self-Energizing](brake_self_energizing.png)
+<img src="brake_self_energizing.png" width="600">
 
 ---
 
