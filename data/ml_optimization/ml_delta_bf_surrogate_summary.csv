@@ -1,0 +1,2 @@
+Stage,max_depth,learning_rate,n_estimators,subsample,colsample_bytree,CV_R2,CV_RMSE,CV_MAE,Independent_R2,Independent_RMSE,Independent_MAE
+Tuning 3 parameters applied to Delta BF,3,0.0609418819,800,0.6030189277,0.9852181122,0.9984654596602673,0.1869739132791825,0.12074137279642976,0.9730537310731252,0.1256401457882208,0.09856277713021709

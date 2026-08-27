@@ -1,0 +1,22 @@
+OptiBF - ML Geometry Optimization
+=================================
+
+mu = 0.300000
+
+Tuning 3 parameters:
+max_depth = 3
+learning_rate = 0.0609418819
+n_estimators = 800
+subsample = 0.6030189277
+colsample_bytree = 0.9852181122
+
+Optimized geometry:
+L1_mm = 35.0531698115
+L3_mm = 143.0975126243
+L4_mm = 152.2581208212
+theta1_deg = 20.1604612674
+theta2_deg = 154.1956861524
+
+BF ML = 1.7036743164
+BF physical = 1.7088356546
+Error (%) = 0.3020383036
