@@ -38,6 +38,5 @@ core/ml_*.py
 core/parameter_trend_analysis*.py
 core/rsm_*.py
 core/sensitivity_analysis.py
-core/objective.py
 core/python
 gerar_graficos_sensibilidade*.py
