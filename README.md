@@ -31,7 +31,7 @@ The OptiBF dashboard provides an interactive environment for:
 - Comparison between current and optimized configurations
 - Engineering visualization
 
-<img src="brake_geometry.png" width="500">
+<img src="brake_geometry.png" width="300">
 
 ---
 
@@ -79,7 +79,7 @@ brake geometry and self-energizing behavior.
 
 <img src="brake_equations.png" width="600">
 
-<img src="brake_self_energizing.png" width="600">
+<img src="brake_self_energizing.png" width="300">
 
 ---
 
