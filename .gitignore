@@ -25,3 +25,19 @@ Thumbs.db
 
 # Excel temporary files
 ~$*.xlsx
+
+# Research data
+data/
+sensitivity_results/
+
+# Research / development scripts
+core/dataset_analysis.py
+core/dataset_generator.py
+core/geometry_sensitivity_analysis.py
+core/ml_*.py
+core/parameter_trend_analysis*.py
+core/rsm_*.py
+core/sensitivity_analysis.py
+core/objective.py
+core/python
+gerar_graficos_sensibilidade*.py
